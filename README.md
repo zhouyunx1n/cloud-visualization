@@ -7,5 +7,11 @@ assignment2 of SD5913
 This project converts real meteorological data into a creative animated visualization.
 I collected the cloud cover (%) data of Hong Kong from January 1 to August 31, 2025, cleaned the dataset, and used Python + Pygame to generate a constantly changing visual animation to reflect the cloud cover.
 
+## Requirements
+This project requires the following Python libraries:
+-pygame
+-pandas
+
+
 ## Note
 I tried several visualization approaches — some worked well, and some did not.
