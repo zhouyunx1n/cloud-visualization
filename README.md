@@ -9,8 +9,9 @@ I collected the cloud cover (%) data of Hong Kong from January 1 to August 31, 2
 
 ## Requirements
 This project requires the following Python libraries:
-### pygame
-### pandas
+
+- `pygame`
+- `pandas`
 
 
 ## Note
